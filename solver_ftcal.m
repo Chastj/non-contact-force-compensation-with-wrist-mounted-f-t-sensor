@@ -5,6 +5,10 @@
 %     Kukelova Z., Bujnak M., Pajdla T., Automatic Generator of Minimal Problem Solvers,
 %     ECCV 2008, Marseille, France, October 12-18, 2008
 
+% R_se * f_1 - R_1 * g_b = 0
+% R_se * f_2 - R_2 * g_b = 0
+% a^2 + b^2 + c^2 + d^2 = 1
+
 function [a, b, c, d, g1, g2, g3] = solver_ftcal(f11, f12, f13, f21, f22, f23, r111, r112, r113, r121, r122, r123, r131, r132, r133, r211, r212, r213, r221, r222, r223, r231, r232, r233)
 
 	% precalculate polynomial equations coefficients
