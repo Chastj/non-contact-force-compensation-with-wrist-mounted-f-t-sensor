@@ -1,10 +1,3 @@
-% Generated using GBSolver generator Copyright Martin Bujnak,
-% Zuzana Kukelova, Tomas Pajdla CTU Prague 2008.
-% 
-% Please refer to the following paper, when using this code :
-%     Kukelova Z., Bujnak M., Pajdla T., Automatic Generator of Minimal Problem Solvers,
-%     ECCV 2008, Marseille, France, October 12-18, 2008
-
 % R_se * f_1 - R_1 * g_b = 0
 % R_se * f_2 - R_2 * g_b = 0
 % a^2 + b^2 + c^2 + d^2 = 1
